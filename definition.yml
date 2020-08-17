@@ -1,0 +1,12 @@
+functions:
+  _get_js_fstack:
+    return : string
+    args:
+      - string
+  _set_js_fret:
+    return : string
+    args:
+      - string
+
+entry_file: main.lua
+output_file: main.html
